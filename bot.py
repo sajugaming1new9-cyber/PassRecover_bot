@@ -19,7 +19,7 @@ from telegram.ext import (
 )
 
 # --- CONFIGURATION ---
-TOKEN = "3:AAGkIsBBGTP88PeSzyj8uNhjijoij nkjnnnkknfnvm "  # <--- REPLACE THIS
+TOKEN = "8998078703:AAFOihRWCHIeHHOKIimYmjF-HOuBCwIGpRw"  # <--- REPLACE THIS
 
 # Directories
 TEMP_DIR = "temp_files"
